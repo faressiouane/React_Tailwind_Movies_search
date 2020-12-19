@@ -21,7 +21,7 @@ function App() {
 }
   
   return (
-    <div className="lg:container md:max-w-2xl md:mx-auto mx-20">
+    <div className="container">
       <h1 className="text-5xl mt-10 text-center font-bold text-purple-800">React Movie Search</h1>
 
       <SearchMovies handleSubmit={searchMovies}/>
