@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faressiouane/Movies-search-react-tailwindcss/static/css/main.96807281.chunk.css",
+    "main.js": "/faressiouane/Movies-search-react-tailwindcss/static/js/main.79c01405.chunk.js",
+    "main.js.map": "/faressiouane/Movies-search-react-tailwindcss/static/js/main.79c01405.chunk.js.map",
+    "runtime-main.js": "/faressiouane/Movies-search-react-tailwindcss/static/js/runtime-main.c77536f5.js",
+    "runtime-main.js.map": "/faressiouane/Movies-search-react-tailwindcss/static/js/runtime-main.c77536f5.js.map",
+    "static/js/2.d58d17f2.chunk.js": "/faressiouane/Movies-search-react-tailwindcss/static/js/2.d58d17f2.chunk.js",
+    "static/js/2.d58d17f2.chunk.js.map": "/faressiouane/Movies-search-react-tailwindcss/static/js/2.d58d17f2.chunk.js.map",
+    "static/js/3.f2394bec.chunk.js": "/faressiouane/Movies-search-react-tailwindcss/static/js/3.f2394bec.chunk.js",
+    "static/js/3.f2394bec.chunk.js.map": "/faressiouane/Movies-search-react-tailwindcss/static/js/3.f2394bec.chunk.js.map",
+    "index.html": "/faressiouane/Movies-search-react-tailwindcss/index.html",
+    "static/css/main.96807281.chunk.css.map": "/faressiouane/Movies-search-react-tailwindcss/static/css/main.96807281.chunk.css.map",
+    "static/js/2.d58d17f2.chunk.js.LICENSE.txt": "/faressiouane/Movies-search-react-tailwindcss/static/js/2.d58d17f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c77536f5.js",
+    "static/js/2.d58d17f2.chunk.js",
+    "static/css/main.96807281.chunk.css",
+    "static/js/main.79c01405.chunk.js"
+  ]
+}
